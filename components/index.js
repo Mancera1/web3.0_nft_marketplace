@@ -1,4 +1,4 @@
-/* Create export for components */
+/* Export for components */
 import NavBar from './NavBar';
 import Footer from './Footer';
 
